@@ -45,7 +45,7 @@ Section "" ;No components page, name is not important
   SetOutPath $INSTDIR
   
   ; Put file there
-  File C:\Users\Eric\OneDrive\projects\TeamsMute\TeamsMute.exe
+  File C:\Users\Eric\Documents\GitHub\TeamsMute\AutoHotKeyScriptSetup\TeamsMute.exe
   
   ; Create shortcut in startup folder 
   CreateShortCut "$SMSTARTUP\TeamsMute.lnk" "$INSTDIR\TeamsMute.exe" ""
